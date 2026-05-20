@@ -12,6 +12,8 @@ tags:
   - Consumer Finance
   - Lending
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/onemain
   - type: Website
     url: https://www.onemainfinancial.com
   - type: Investor Relations
