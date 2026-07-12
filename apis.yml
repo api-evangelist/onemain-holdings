@@ -13,6 +13,10 @@ tags:
   - Lending
   - Fortune 1000
 common:
+  - type: VulnerabilityDisclosure
+    url: security/onemain-holdings-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/onemain-holdings-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/onemain
   - type: Website
