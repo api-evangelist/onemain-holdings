@@ -24,6 +24,8 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/onemain-holdings.png
 name: OneMain Holdings
 url: >-
+x-api-posture: no-product-api
+x-api-posture-basis: observed
   https://raw.githubusercontent.com/api-evangelist/onemain-holdings/refs/heads/main/apis.yml
 created: '2026-03-24'
 modified: '2026-04-28'
