@@ -1,7 +1,9 @@
 ---
 title: Pagaya Announces New Lending Partnership with ...
 url: https://investor.pagaya.com/news-releases/news-release-details/pagaya-announces-new-lending-partnership-onemain-financial
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"OneMain Holdings" press release artificial intelligence'
 position: 2
 source: serpapi-google
