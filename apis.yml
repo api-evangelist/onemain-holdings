@@ -32,7 +32,7 @@ modified: '2026-04-28'
 specificationVersion: '0.23'
 apis: []
 tags:
-  - Financial-Services
+  - Financial Services
   - Personal Loans
   - Consumer Finance
   - Lending
@@ -43,6 +43,7 @@ tags_raw:
   - Consumer Finance
   - Lending
   - Fortune 1000
+  - Financial-Services
 common:
   - type: VulnerabilityDisclosure
     url: security/onemain-holdings-vulnerability-disclosure.yml
